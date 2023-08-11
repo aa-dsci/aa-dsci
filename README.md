@@ -9,7 +9,7 @@
 
 - 📈 O que mais me interessa:  **Estatística, Gestão de projetos, Modelagem**
 
-- 📝 Me escreva:  **alex.alves.dsci@gmail.com**
+- 📝 Me escreva:  **alex.a.dsci@gmail.com**
 
 - ❗ :  **Estou aberto a oportunidades de trabalho**
 
