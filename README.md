@@ -29,7 +29,7 @@
 | Geoprocessamento             |  ⦿⦿⦿⦾⦾  |
 | Mineração de dados           |  ⦿⦿⦾⦾⦾  | 
 
-## Idiomas & Softwares
+## Linguagens & Aplicações
 |                              |             |
 |------------------------------|-------------|
 | R                            |  ⦿⦿⦿⦿⦾  |
